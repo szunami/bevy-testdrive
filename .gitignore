@@ -1,1 +1,2 @@
-/target
+/target/*
+!/target/x86_64-apple-darwin/debug/bevy-testdrive
